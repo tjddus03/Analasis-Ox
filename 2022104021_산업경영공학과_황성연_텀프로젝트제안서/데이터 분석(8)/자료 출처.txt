@@ -1,0 +1,11 @@
+자료: 주가지수 월별 추이
+출처: krx 정보데이터시스템
+http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0301
+
+자료: 미세먼지 월별 도시별 대기오염도
+출처: 환경부 환경통계포털
+https://stat.me.go.kr/portal/stat/easyStatPage.do
+
+krx파일중 용량이 8KB인것은 2016년 9월부터의 자료임
+미세먼지(PM2.5)는 2015년 1월부터의 자료임
+나머지는 모두 2010년 1월부터 2019년 12월까지의 자료임
